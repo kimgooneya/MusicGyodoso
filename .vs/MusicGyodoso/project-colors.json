@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8657ef26-0c0f-4208-916a-7cf9db7b5130": {
+      "ProjectGuid": "8657ef26-0c0f-4208-916a-7cf9db7b5130",
+      "DisplayName": "MusicGyodoso",
+      "ColorIndex": 0
+    },
+    "eca734d4-ae55-4142-a035-a2dec6a53650": {
+      "ProjectGuid": "eca734d4-ae55-4142-a035-a2dec6a53650",
+      "DisplayName": "MusicGyodosoServer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

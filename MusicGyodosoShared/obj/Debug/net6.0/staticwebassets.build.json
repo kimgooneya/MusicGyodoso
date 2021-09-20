@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "Y6ihOtsoQ9S2QqTbYgehRnubVFy1xvKDdahcf/6p2kg=",
+  "Source": "MusicGyodosoShared",
+  "BasePath": "_content/MusicGyodosoShared",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MusicGyodosoShared\\wwwroot",
+      "Source": "MusicGyodosoShared",
+      "ContentRoot": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\wwwroot\\",
+      "BasePath": "_content/MusicGyodosoShared",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MusicGyodosoShared.styles.css",
+      "SourceId": "MusicGyodosoShared",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MusicGyodosoShared",
+      "RelativePath": "MusicGyodosoShared.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MusicGyodosoShared.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MusicGyodosoShared.bundle.scp.css",
+      "SourceId": "MusicGyodosoShared",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MusicGyodosoShared",
+      "RelativePath": "MusicGyodosoShared.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MusicGyodosoShared.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\wwwroot\\background.png",
+      "SourceId": "MusicGyodosoShared",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\wwwroot\\",
+      "BasePath": "_content/MusicGyodosoShared",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "MusicGyodosoShared",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kimgo\\source\\repos\\MusicGyodoso\\MusicGyodosoShared\\wwwroot\\",
+      "BasePath": "_content/MusicGyodosoShared",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}
